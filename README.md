@@ -13,7 +13,9 @@ This repository is intended for learning and practicing the concepts behind Bina
 A Binary Search Tree is a binary tree that maintains an ordering property:
 
 Values smaller than a node are placed in its left subtree.
+
 Values greater than a node are placed in its right subtree.
+
 Each subtree follows the same ordering property.
 
 BSTs provide an efficient way to organize and search data when the tree remains reasonably balanced.
@@ -21,11 +23,17 @@ BSTs provide an efficient way to organize and search data when the tree remains 
 # Key Concepts
 
 Binary tree structure
+
 BST ordering property
+
 Node insertion and searching
+
 Tree traversal
+
 Deletion and restructuring
+
 Recursive tree operations
+
 Understanding time and space complexity
 
 # Learning Goals
